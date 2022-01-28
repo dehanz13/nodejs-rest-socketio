@@ -1,3 +1,7 @@
+# CREDITS:
+### This project is originally from [Juriy Bura](https://github.com/Juriy).
+You can checkout his [YouTube playlist](https://www.youtube.com/playlist?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh) for the whole tutorial.
+
 # EASYIO
 A simple application to test REST and SocketIO connectivity and experiment with node.js deployement models. This is an accompanying app 
 for YouTube series - **"Deploying Node"** https://www.youtube.com/playlist?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh
@@ -47,6 +51,3 @@ An application exposes REST and SocketIO APIs
 
 ## SocketIO API
 For every connected client, an application listens to `heartbeat` event. Once event is received, server will send back `heartbeat` event with the same payload as client sent, adding the name of the node that processed event. Useful to test socket.io connectivity as well as roundtrip times.
-
-
-# nodejs-rest-socketio
