@@ -1,5 +1,6 @@
-# nodejs-rest-socketio
-Project from [Juriy Bura](https://github.com/Juriy)
+# CREDITS:
+### This project is originally from [Juriy Bura](https://github.com/Juriy).
+You can checkout his [YouTube playlist](https://www.youtube.com/playlist?list=PLQlWzK5tU-gDyxC1JTpyC2avvJlt3hrIh) for the whole tutorial.
 
 # EASYIO
 A simple application to test REST and SocketIO connectivity and experiment with node.js deployement models. This is an accompanying app 
